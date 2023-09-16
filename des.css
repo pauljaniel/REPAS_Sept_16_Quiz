@@ -1,0 +1,19 @@
+th, tr, td{
+    border: 2px solid black;
+    padding: 10px;
+    margin: 1px;
+}
+
+
+
+.a{
+    background-color: rgb(157, 204, 130);
+    text-align: center;
+}
+
+
+
+body{
+    max-width: fit-content;
+    margin: auto;
+}
